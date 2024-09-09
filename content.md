@@ -88,3 +88,5 @@ No diretório de instalação, coloque o ModelSim na mesma pasta do Quartus. Por
 4. Clique em Install.
 
 Após finalizar a intalação, abra o Quartus, no menu Superior selecione Tools -> Options. Na aba EDA Tool Options, altere o caminho do ModelSim-Altera para o caminho onde o ModelSim foi instalado. No caso de Linux, por exemplo, `/home/${USER}/IntelFPGA_lite/20.1/modelsim_ase/linuxaloem/`, enquanto no Windows é `C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/`. Após alterar o caminho, clique em OK e rode a simulação novamente.
+
+<img src ="./img/license/edaPath.png" alt="Instalar ModelSim" style="max-width:500px; max-height:300px;" />
